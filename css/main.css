@@ -1,0 +1,176 @@
+body {
+  font-family: "Crimson Text", "Times New Roman", serif;
+  background-color: #F2FFFC;
+  font-size: 120%;
+  line-height: 1.5;
+}
+
+h1, h2 {
+  font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+main {
+  float: left;
+  width: 85%;
+  padding-bottom: 80px;
+}
+
+.div-titulo{
+  background-color: #4169E1;
+  width: 1147px;
+  height: 270px;
+
+}
+
+.div-texto-cursos{
+  float: left;
+}
+
+.div-texto-exp{
+  float: right;
+}
+
+.titulo-principal{
+  text-align: left;
+  background-color: #4169E1;
+  color: #FFF;
+  padding: 25px;
+  font-size: 60px;
+  text-transform: uppercase;
+
+}
+
+.subtitulo-texto {
+  font-size: 20px;
+  font-weight: bold;
+  clear: both;
+  color: #1E90FF;
+}
+
+.div-titulo p{
+  font-size: 25px;
+  color: white;
+  padding: 25px;
+}
+
+.navegacao-site{
+  display: block;
+  box-sizing: border-box;
+}
+.contacts{
+  color: #FFF;
+  background-color: #4169E1;
+  display: block;
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+.contacts-text{
+  color: #FFF;
+  background-color: #4169E1;
+  display: block;
+  position: absolute;
+  right: 250px;
+  top: 30px;
+}
+.contacts li{
+  display: block;
+  padding: 2px;
+}
+.contacts a{
+  width: 25px;
+  height: 25px;
+  display: block;
+  text-indent: -99999px;
+}
+.idade{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/user.png);
+  background-size: contain;
+}
+.phone{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/phone.png);
+  background-size: contain;
+}
+.linkedin{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/linkedin.png);
+  background-size: contain;
+}
+.skype{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/skype.png);
+  background-size: contain;
+}
+.email{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/email.png);
+  background-size: contain;
+}
+.presentation{
+  width: auto;
+  height: auto;
+}
+.course{
+  width: 500px;
+  padding: 10px;
+}
+.course h3{
+  font-size: 20px;
+  color: #1E90FF;
+  font-family: "Arial" sans-serif;
+}
+.proffession{
+  width: 598px;
+  height: 330px;
+  padding: 10px;
+}
+.proffession h3{
+  font-size: 20px;
+  color: #1E90FF;
+  font-family: "Arial" sans-serif;
+}
+.proff a{
+  font-family: "Arial" sans-serif;
+}
+.strong{
+  font-size: 30px;
+  color: #1E90FF;
+  font-family: "Arial" sans-serif;
+}
+
+.intro{
+  display: block;
+  width: 100px;
+  height: 100px;
+}
+.intro h2{
+  font-size: 30px;
+  color: #1E90FF;
+  text-indent: 50px;
+  width: 1000px;
+}
+
+.person{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/person.png);
+  background-size: contain;
+}
+.cursos{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/acad.png);
+  background-size: contain;
+}
+.proff{
+  width: 40px;
+  height: 40px;
+  background-image: url(../img/profe.png);
+  background-size: contain;
+}
